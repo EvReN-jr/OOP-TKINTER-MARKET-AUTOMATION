@@ -423,9 +423,9 @@ if __name__ == "__main__":
     screen.Window_Creat()
     screen.Main_Desing()
    
-#dirList https://www.ozban.com/python-ile-dosya-ve-klasor-listeleme
-#State https://stackoverflow.com/questions/20983309/how-to-enable-disable-tabs-in-a-tkinter-tix-python-gui
-#Lb1 index https://stackoverflow.com/questions/47580444/python-tkinter-listbox-getting-index
+# dirList https://www.ozban.com/python-ile-dosya-ve-klasor-listeleme
+# State https://stackoverflow.com/questions/20983309/how-to-enable-disable-tabs-in-a-tkinter-tix-python-gui
+# Lb1 index https://stackoverflow.com/questions/47580444/python-tkinter-listbox-getting-index
 # Quoatations https://www.biymed.com/forum/isyonetimi/satisuzerine-ozlu-sozler-13643.html,translate Google Translate
-#Hide Object http://python.6.x6.nabble.com/Tutor-Showing-hiding-widgets-in-Tkinter-td1755056.html
+# Hide Object http://python.6.x6.nabble.com/Tutor-Showing-hiding-widgets-in-Tkinter-td1755056.html
 # Delete file https://python-ogren.readthedocs.io/en/latest/file_remove.html
